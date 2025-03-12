@@ -1,4 +1,4 @@
-# Amazon-Clone01
+# _Amazon-Clone
 A simple Amazon-inspired web page built with HTML and CSS. Features a responsive layout, product listings, navigation bar, and a styled footer. Great for practicing frontend development and mastering CSS styling!
 <br><hr><br>
 ![image](https://github.com/user-attachments/assets/242cee1b-22ac-4fef-9d0e-3dee5162c4c2)
